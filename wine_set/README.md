@@ -6,3 +6,4 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 
 **List of updates**
 1. **Chapter 4.2.2** - Custom transformer added; Transforms data by removing zeros and implementing next smallest value in its place.
+2. Added classification approach.
